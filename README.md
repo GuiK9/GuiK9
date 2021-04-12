@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuiK9
+- 👋 Hi, I'm @GuiK9
 - 👀 I’m interested in JavaScript, HTML, CSS (the trinity), Phyton, node and mongoDB.
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on web developer
