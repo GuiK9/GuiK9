@@ -1,4 +1,4 @@
-# Oi, meu nome é Guilherme, e quero fazer a diferença nesse mundo.
+# Oi! meu nome é Guilherme, e quero fazer a diferença nesse mundo.
 
 
 - Estou focado no aprendizado e desenvolvimento back-end 💻
