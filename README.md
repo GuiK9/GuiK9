@@ -29,8 +29,6 @@
             <img alt="tec-Linux" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
             <img alt="tec-Python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
             <img alt="tec-Python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-
-
           </p>
       </div>
       <div>
