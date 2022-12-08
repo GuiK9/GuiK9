@@ -1,17 +1,10 @@
 # Oi! meu nome é Guilherme, e quero fazer a diferença nesse mundo.
 
-
-- Estou focado no aprendizado e desenvolvimento back-end 💻
-- Gosto de me sentir útil e pertencente a um time 👨‍💻
-- Aprendendo, sempre 💪
-
-
+- Cusrando Análise e Desenvolvimento de Sistemas 🚀 
+- focado no aprendizado e desenvolvimento back-end 💻
+- Evoluindo, sempre 💪
 
 <div>
-  <a href="https://github.com/guik9">
-  <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guik9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&custom_title=."/>   
-  </div> 
  <br>
   <div>
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guik9&layout=compact&langs_count=7&theme=tokyonight&layout=compact"/>
@@ -19,7 +12,7 @@
 </div>
   
   
-<div style="display: inline_block"><br>
+<div><br>
     
   <h3>Tecnologias que conheço:</h3>
     
