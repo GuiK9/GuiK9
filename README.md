@@ -7,9 +7,6 @@
 
 <div style="display:flex; justify-content: space-around; flex-flow: row wrap;">
 
-  <div>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guik9&layout=compact&langs_count=7&theme=tokyonight&layout=compact"/>
-  </div>
 
   <div>
     <div>
